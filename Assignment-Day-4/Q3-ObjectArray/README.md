@@ -1,3 +1,0 @@
-Create an array of objects with objects having the following properties
-A. {name (string), age (number), country (string), hobbies array (string [ ] ) }
-B. Write a function to display all the objects on the console
